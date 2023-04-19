@@ -1,0 +1,14 @@
+.error {
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+  background-color: #2A52BE;
+  padding: 10px;
+  color: white;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
